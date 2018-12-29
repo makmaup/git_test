@@ -1,0 +1,1 @@
+This is Makenzie's first git project!
